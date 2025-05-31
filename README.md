@@ -26,7 +26,6 @@ A clean and animated personal site template to show off your online identity —
 ````plaintext
 src/
 ├── images/        # Your profile pics and social icons
-├── videos/        # Background video
 ├── index.html     # Main file to edit
 └── css/
     └── style.css  # Customize styles here
