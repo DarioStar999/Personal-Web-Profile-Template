@@ -15,7 +15,7 @@ A clean and animated personal site template to show off your online identity —
 
 1. Clone or download the repo  
 2. Replace images & videos in `src/` with your own  
-3. Edit `index.html` and update:  
+3. Edit `main.html` and update:  
    - Username  
    - Bio  
    - Social links  
@@ -26,7 +26,7 @@ A clean and animated personal site template to show off your online identity —
 ````plaintext
 src/
 ├── images/        # Your profile pics and social icons
-├── index.html     # Main file to edit
+├── main.html      # Main file to edit
 └── css/
     └── style.css  # Customize styles here
 ````
