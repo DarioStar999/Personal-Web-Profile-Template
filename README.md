@@ -1,4 +1,4 @@
-# 🌐 Personal Web Profile Template - by DarioStar999
+# 🌐 Personal Web Profile Template
 
 A clean and animated personal site template to show off your online identity — perfect for developers, gamers, creators, or anyone who wants a stylish profile page ✨
 
@@ -24,7 +24,7 @@ A clean and animated personal site template to show off your online identity —
 
 ## 🧩 Folder Structure
 ````plaintext
-src/
+Template/
 ├── src/
     └── images/    # Your profile pics and social icons
     └── fonts/     # Customize Font
