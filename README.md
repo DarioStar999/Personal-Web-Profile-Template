@@ -25,7 +25,9 @@ A clean and animated personal site template to show off your online identity —
 ## 🧩 Folder Structure
 ````plaintext
 src/
-├── images/        # Your profile pics and social icons
+├── src/
+    └── images/    # Your profile pics and social icons
+    └── fonts/     # Customize Font
 ├── main.html      # Main file to edit
 └── css/
     └── style.css  # Customize styles here
